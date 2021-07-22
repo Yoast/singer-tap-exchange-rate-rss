@@ -1,0 +1,1 @@
+# singer-tap-exchange-rate-rss
